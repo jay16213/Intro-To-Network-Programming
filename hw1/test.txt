@@ -1,0 +1,7 @@
+reverse abcdefg
+split acscs
+split cscs
+split csa
+split cscsa
+split acs
+split acscskkk
